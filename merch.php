@@ -16,7 +16,6 @@
                 <img src="Bilder/logo.png" alt="Logo">
             </a>
         </div>
-        <a href="index.php">leer 1</a>
         <a href="merch.php" class="active">Merch</a>
         <a href="karriere.php">Karriere</a>
         <a href="team.php">Team</a>
@@ -43,7 +42,7 @@
                 <img src="Bilder/Merch/merch2.png" alt="Merch 2">
                 <div class="merch-info">
                     <h2>leer 2</h2>
-                    <p class="price">€45,00</p>
+                    <p class="price">€35,00</p>
                     <button>Kaufen</button>
                 </div>
             </div>

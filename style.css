@@ -73,55 +73,69 @@ body {
     object-fit: cover;
 }
 
-/* Team-Seite */
+/* ================= TEAM ================= */
 .team-page {
-    max-width: 1000px;
+    max-width: 1100px;
     margin: 60px auto;
     padding: 0 30px;
     text-align: center;
 }
-  
+
 .team-page h1 {
     font-size: 36px;
     margin-bottom: 40px;
 }
-  
+
 .team-section {
-    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 30px;
+    margin-bottom: 60px;
     text-align: left;
 }
-  
+
 .team-section h2 {
+    grid-column: 1 / -1; /* Überschrift über beide Spalten */
     font-size: 28px;
     margin-bottom: 20px;
 }
-  
+
 .member {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    padding: 20px;
     display: flex;
-    align-items: flex-start;
-    margin-bottom: 20px;
+    align-items: center;
+    transition: transform 0.2s, box-shadow 0.2s;
 }
-  
+
+.member:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
 .member img {
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
     object-fit: cover;
     border-radius: 50%;
     margin-right: 20px;
 }
-  
+
 .member .info h3 {
-    margin: 0 0 5px 0;
-    font-size: 20px;
+    margin: 0 0 5px;
+    font-size: 18px;
+    font-weight: bold;
 }
-  
+
 .member .info p {
     margin: 2px 0;
-    font-size: 16px;
+    font-size: 15px;
     color: #555;
 }
 
-/* Flip-Cards als Grid */
+/* ================= FLIP CARDS ================= */
 .flip-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 Karten pro Reihe */
@@ -134,10 +148,9 @@ body {
 .flip-card {
     background: transparent;
     width: 100%;
-    aspect-ratio: 2 / 2.5; /* schmaler & höher */
+    aspect-ratio: 2 / 2.5;
     perspective: 1000px;
 }
-
 
 .flip-inner {
     position: relative;
@@ -164,9 +177,9 @@ body {
 .flip-front img {
     width: 100%;
     height: 100%;
-    object-fit: contain; /* statt cover */
-    background: #fff;    /* optional, sieht sauber aus */
-    padding: 10px;       /* bisschen Abstand */
+    object-fit: contain;
+    background: #fff;
+    padding: 10px;
     border-radius: 12px;
 }
 
@@ -180,18 +193,17 @@ body {
     transform: rotateY(180deg);
 }
 
-/* Extra Karte unten */
 .flip-container.extra {
     display: grid;
-    grid-template-columns: repeat(1, 300px); /* gleiche Größe wie andere */
-    justify-content: center; /* zentriert */
+    grid-template-columns: repeat(1, 300px);
+    justify-content: center;
     margin-top: 40px;
 }
 
-/* Karriere-Seite */
+/* ================= KARRIERE ================= */
 .career-header img {
     width: 100%;
-    height: 100vh;  /* ganze Bildschirmhöhe */
+    height: 100vh;
     object-fit: cover;
     display: block;
 }
@@ -209,7 +221,6 @@ body {
     margin-bottom: 40px;
 }
 
-/* Zweispaltiger Text */
 .career-text {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -224,7 +235,6 @@ body {
     color: #333;
 }
 
-/* Call-to-Action */
 .career-cta h2 {
     font-size: 24px;
     margin-bottom: 10px;
@@ -250,7 +260,7 @@ body {
     background: #8200c8;
 }
 
-/* Footer */
+/* ================= FOOTER ================= */
 .footer {
     background: #000;
     color: #fff;
@@ -310,13 +320,12 @@ body {
     color: #8200c8;
 }
 
-/* Social Icons */
 .footer .socials a img {
     width: 40px;
-    height: 40px;  /* jetzt quadratisch */
+    height: 40px;
     margin-right: 12px;
     transition: transform 0.3s;
-    filter: brightness(0) invert(1); /* weiße Icons */
+    filter: brightness(0) invert(1);
 }
 
 .footer .socials a img:hover {
@@ -324,10 +333,9 @@ body {
     filter: brightness(0) invert(0.5) sepia(1) hue-rotate(260deg) saturate(5);
 }
 
-/* Einzelnes Social Icon */
 .social-icon img {
-    width: 40px;   /* gleich groß wie im Footer */
-    height: 40px;  /* quadratisch */
+    width: 40px;
+    height: 40px;
     transition: transform 0.3s;
 }
 
@@ -335,7 +343,7 @@ body {
     transform: scale(1.15);
 }
 
-/* Kontaktseite */
+/* ================= KONTAKT ================= */
 .contact-page {
     max-width: 1100px;
     margin: 60px auto;
@@ -417,7 +425,7 @@ body {
     background: #8200c8;
 }
 
-/* Popup */
+/* ================= POPUP ================= */
 .popup-overlay {
     display: none;
     position: fixed;
@@ -456,7 +464,7 @@ body {
     background: #8200c8;
 }
 
-/* Merch-Seite */
+/* ================= MERCH ================= */
 .merch-page {
     max-width: 1200px;
     margin: 60px auto;

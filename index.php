@@ -16,7 +16,6 @@
                 <img src="Bilder/logo.png" alt="Logo">
             </a>
         </div>
-        <a href="index.php">leer 1</a>
         <a href="merch.php">Merch</a>
         <a href="karriere.php">Karriere</a>
         <a href="team.php">Team</a>
@@ -38,7 +37,7 @@
 
     <!-- Bilder-Bereich -->
     <div class="image-row">
-        <img src="Bilder/abfüllen.png" alt="Bild 1">
+        <img src="Bilder/abfüllen1.png" alt="Bild 1">
         <img src="Bilder/einpacken.png" alt="Bild 2">
         <img src="Bilder/LKFFahrt.png" alt="Bild 3">
     </div>

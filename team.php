@@ -16,10 +16,9 @@
                 <img src="Bilder/logo.png" alt="Logo">
             </a>
         </div>
-        <a href="index.php">leer 1</a>
         <a href="merch.php">Merch</a>
         <a href="karriere.php">Karriere</a>
-        <a href="team.php">Team</a>
+        <a href="team.php" class="active">Team</a>
         <a href="kontakt.php">Kontakt</a>
     </div>
 
@@ -27,29 +26,55 @@
   <div class="content team-page">
     <h1>Unser Team</h1>
 
+    <!-- Geschäftsführung -->
     <section class="team-section">
       <h2>Geschäftsführung</h2>
       <div class="member">
-        <img src="..." alt="Bild">
+        <img src="Bilder/Team/mercedes.png" alt="Bild">
         <div class="info">
           <h3>Mercedes Kinitz</h3>
           <p>leer</p>
-          <p>Mail: leer</p>
-          <p>Telefon: leer</p>
+          <p>Mail: mercedeskinitz-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/9863576</p>
         </div>
       </div>
 
       <div class="member">
-        <img src="..." alt="Bild">
+        <img src="Bilder/Team/amina.png" alt="Bild">
         <div class="info">
           <h3>Amina Temischeva</h3>
           <p>leer</p>
-          <p>Mail: leer</p>
-          <p>Telefon: leer</p>
+          <p>Mail: aminatemischeva-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/2656976</p>
         </div>
       </div>
     </section>
 
+    <!-- Marketing -->
+    <section class="team-section">
+      <h2>Marketing</h2>
+      <div class="member">
+        <img src="Bilder/Team/mooshi.png" alt="Bild">
+        <div class="info">
+          <h3>ShooshiMooshi</h3>
+          <p>Social Media</p>
+          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/2658576</p>
+        </div>
+      </div>
+
+      <div class="member">
+        <img src="Bilder/Team/adam.png" alt="Bild">
+        <div class="info">
+          <h3>Adam Sandler</h3>
+          <p>Social Media / Videos </p>
+          <p>Mail: adamsandler-zoonergy@gmail.com</p>
+          <p>Telefon: 0664/98625368</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Büromanagement -->
     <section class="team-section">
       <h2>Büromanagement</h2>
       <div class="member">
@@ -57,17 +82,98 @@
         <div class="info">
           <h3>Mark Zuckerberg</h3>
           <p>leer</p>
-          <p>Mail: leer</p>
+          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
           <p>Telefon: leer</p>
         </div>
       </div>
+
       <div class="member">
-        <img src="Bilder/Team/mooshi.png" alt="Bild">
+        <img src="Bilder/Team/fsf" alt="Bild">
         <div class="info">
-          <h3>ShooshiMooshi</h3>
+          <h3>leer</h3>
           <p>leer</p>
-          <p>Mail: leert</p>
+          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
           <p>Telefon: leer</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="team-section">
+      <div class="member">
+        <img src="Bilder/Team/member5.png" alt="Bild">
+        <div class="info">
+          <h3>leer 5</h3>
+          <p>leer</p>
+          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
+          <p>Telefon: leer</p>
+        </div>
+      </div>
+
+      <div class="member">
+        <img src="Bilder/Team/member6.png" alt="Bild">
+        <div class="info">
+          <h3>leer 6</h3>
+          <p>leer</p>
+          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
+          <p>Telefon: leer</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="team-section">
+      <div class="member">
+        <img src="Bilder/Team/member7.png" alt="Bild">
+        <div class="info">
+          <h3>leer 7</h3>
+          <p>leer</p>
+          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
+          <p>Telefon: leer</p>
+        </div>
+      </div>
+
+      <div class="member">
+        <img src="Bilder/Team/member8.png" alt="Bild">
+        <div class="info">
+          <h3>leer 8</h3>
+          <p>leer</p>
+          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
+          <p>Telefon: leer</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Abteilung 5 -->
+    <section class="team-section">
+      <h2>Design</h2>
+      <div class="member">
+        <img src="Bilder/Team/member9.png" alt="Bild">
+        <div class="info">
+          <h3>leer 9</h3>
+          <p>leer</p>
+          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
+          <p>Telefon: leer</p>
+        </div>
+      </div>
+
+      <div class="member">
+        <img src="Bilder/Team/member10.png" alt="Bild">
+        <div class="info">
+          <h3>leer 10</h3>
+          <p>leer</p>
+          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
+          <p>Telefon: leer</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Extra: Team Hund -->
+    <section class="team-section">
+      <h2>Unser Team Hund</h2>
+      <div class="member">
+        <img src="Bilder/Team/hund.png" alt="Team Hund">
+        <div class="info">
+          <h3>Zippy</h3>
+          <p>Motivationstrainer</p>
         </div>
       </div>
     </section>

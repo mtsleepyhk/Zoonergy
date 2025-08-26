@@ -16,7 +16,6 @@
                 <img src="Bilder/logo.png" alt="Logo">
             </a>
         </div>
-        <a href="index.php">leer 1</a>
         <a href="merch.php">Merch</a>
         <a href="karriere.php" class="active">Karriere</a>
         <a href="team.php">Team</a>
