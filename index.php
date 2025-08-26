@@ -7,6 +7,8 @@
     <meta charset="UTF-8">
     <title>Zoonergy</title>
     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+
 </head>
 <body>
     <!-- Navbar -->
@@ -120,6 +122,23 @@
         </div>
     </div>
 
+    <!-- Über uns Abschnitt -->
+    <section class="about-section">
+        <div class="about-text">
+            <h2>Wir machen was draus – seit 2025</h2>
+            <p>
+                Zoonergy ist mehr als nur ein Energy Drink – wir sind ein Unternehmen,
+                das 2025 gegründet wurde, um Power und Kreativität in jeder Dose zu vereinen.
+                Mit Leidenschaft, Mut und Energie arbeiten wir daran, deine wahre Stärke sichtbar zu machen.
+            </p>
+            <a href="team.php" class="btn">Mehr erfahren</a>
+        </div>
+        <div class="about-img">
+            <img src="Bilder/about.png" alt="Über uns Bild">
+        </div>
+    </section>
+
+
 <!-- Footer -->
 <footer class="footer">
     <div class="footer-left">
@@ -155,7 +174,6 @@
         </div>
     </div>
 </footer>
-
 
 </body>
 </html>

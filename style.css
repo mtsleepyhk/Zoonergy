@@ -536,3 +536,60 @@ body {
 .merch-info button:hover {
     background: #8200c8;
 }
+
+/* ================= ABOUT ================= */
+.about-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 80px auto;
+    padding: 0 40px;
+}
+
+.about-text {
+    text-align: left;
+}
+
+.about-text h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.about-text p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.about-text .btn {
+    display: inline-block;
+    background: #8200c8;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 6px;
+    transition: background 0.3s;
+}
+
+.about-text .btn:hover {
+    background: #000;
+}
+
+.about-img img {
+    width: 100%;
+    max-width: 500px;
+    opacity: 0;
+    transform: translateX(100px);
+    transition: all 1s ease-out;
+}
+
+/* Scroll Animation sichtbar machen */
+.about-img.visible img {
+    opacity: 1;
+    transform: translateX(0);
+}

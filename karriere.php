@@ -33,16 +33,18 @@
         <div class="career-text">
             <div>
                 <p>
-                    Innovation hat bei uns Tradition. Unser Gründer war ein Visionär seiner Zeit 
-                    und bis heute ist der Erfindergeist ein essenzieller Baustein unserer täglichen Arbeit. 
-                    Wir entwickeln ständig neue Ideen und Technologien, um unsere Marke weiterzubringen.
+                    Bei ZOONERGY fließt Kreativität in jeder Dose. Schon unsere ersten Geschmacksrichtungen waren mutige Experimente - 
+                    heute ist dieser Pioniergeist das Herzstück unserer Marke. Wir verbinden verrückte Ideen, einzigartige Designs und 
+                    neue Geschmackserlebnisse, um immer wieder überraschende Drinks zu schaffen. ZOONERGY steht für Fantasie, Vielfalt 
+                    und die Energie, jeden Tag neu zu erfinden.
                 </p>
             </div>
             <div>
                 <p>
-                    Genauso vielfältig wie unsere Produkte sind auch unsere Karrieremöglichkeiten: 
-                    Egal ob Marketing, Design, Entwicklung, Projektmanagement oder Customer Service – 
-                    bei uns findest du spannende Aufgaben in unterschiedlichen Bereichen.
+                Genauso bunt wie unsere Drinks sind auch die Chancen bei ZOONERGY:
+                Ob im Marketing, Design, in der Produktentwicklung, im Projektmanagement oder im Customer Service - bei uns warten 
+                spannende Aufgaben in den verschiedensten Bereichen. Werde Teil unseres Teams und gestalte mit uns die Zukunft der 
+                Erfrischung!
                 </p>
             </div>
         </div>
