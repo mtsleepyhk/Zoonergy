@@ -34,7 +34,7 @@
                 <div class="merch-info">
                     <h2>leer 1</h2>
                     <p class="price">€35,00</p>
-                    <button>In den Warenkorb</button>
+                    <button>Kaufen</button>
                 </div>
             </div>
 
@@ -44,7 +44,7 @@
                 <div class="merch-info">
                     <h2>leer 2</h2>
                     <p class="price">€45,00</p>
-                    <button>In den Warenkorb</button>
+                    <button>Kaufen</button>
                 </div>
             </div>
 
