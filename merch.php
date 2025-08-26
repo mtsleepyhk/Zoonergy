@@ -33,7 +33,7 @@
                 <img src="Bilder/Merch/merch1.png" alt="Merch 1">
                 <div class="merch-info">
                     <h2>leer 1</h2>
-                    <p class="price">€35,00</p>
+                    <p class="price">€25,00</p>
                     <button>Kaufen</button>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                 <img src="Bilder/Merch/merch2.png" alt="Merch 2">
                 <div class="merch-info">
                     <h2>leer 2</h2>
-                    <p class="price">€65,00</p>
+                    <p class="price">€45,00</p>
                     <button>Kaufen</button>
                 </div>
             </div>
