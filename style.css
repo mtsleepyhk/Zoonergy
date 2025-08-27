@@ -588,3 +588,36 @@ body {
     opacity: 1;
     transform: translateX(0);
 }
+/* ================= JOBS ================= */
+.job-offer {
+    text-align: left;
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    margin-top: 40px;
+}
+
+.job-offer h2 {
+    font-size: 26px;
+    margin-bottom: 20px;
+    color: #8200c8;
+}
+
+.job-offer h3 {
+    font-size: 20px;
+    margin: 25px 0 10px;
+    color: #000;
+}
+
+.job-offer ul {
+    list-style: disc;
+    margin: 0 0 20px 20px;
+    padding: 0;
+}
+
+.job-offer ul li {
+    margin-bottom: 8px;
+    font-size: 16px;
+    line-height: 1.5;
+}

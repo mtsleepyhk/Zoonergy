@@ -41,10 +41,10 @@
             </div>
             <div>
                 <p>
-                Genauso bunt wie unsere Drinks sind auch die Chancen bei ZOONERGY:
-                Ob im Marketing, Design, in der Produktentwicklung, im Projektmanagement oder im Customer Service - bei uns warten 
-                spannende Aufgaben in den verschiedensten Bereichen. Werde Teil unseres Teams und gestalte mit uns die Zukunft der 
-                Erfrischung!
+                    Genauso bunt wie unsere Drinks sind auch die Chancen bei ZOONERGY:
+                    Ob im Marketing, Design, in der Produktentwicklung, im Projektmanagement oder im Customer Service - bei uns warten 
+                    spannende Aufgaben in den verschiedensten Bereichen. Werde Teil unseres Teams und gestalte mit uns die Zukunft der 
+                    Erfrischung!
                 </p>
             </div>
         </div>
@@ -52,7 +52,8 @@
         <div class="career-cta">
             <h2>Klingt spannend?</h2>
             <p>Dann gestalte mit uns die Energy-Drinks von morgen!</p>
-            <a href="#" class="btn">Alle offenen Jobs</a>
+            <!-- Button leitet auf jobsoffen.php -->
+            <a href="jobsoffen.php" class="btn">Alle offenen Jobs</a>
         </div>
     </div>
 
