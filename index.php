@@ -125,16 +125,16 @@
     <!-- Über uns Abschnitt -->
     <section class="about-section">
         <div class="about-text">
-            <h2>Wir machen was draus – seit 2025</h2>
+            <h2>Werde mit uns zum Tier - seit 2025</h2>
             <p>
-                Zoonergy ist mehr als nur ein Energy Drink – wir sind ein Unternehmen,
+                Zoonergy ist mehr als nur ein Energy Drink - wir sind ein Unternehmen,
                 das 2025 gegründet wurde, um Power und Kreativität in jeder Dose zu vereinen.
                 Mit Leidenschaft, Mut und Energie arbeiten wir daran, deine wahre Stärke sichtbar zu machen.
             </p>
-            <a href="team.php" class="btn">Mehr erfahren</a>
+            <a href="team.php" class="btn">Unser Team</a>
         </div>
         <div class="about-img">
-            <img src="Bilder/about.png" alt="Über uns Bild">
+            <img src="Bilder/us.png" alt="Über uns Bild">
         </div>
     </section>
 

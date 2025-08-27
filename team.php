@@ -30,20 +30,20 @@
     <section class="team-section">
       <h2>Geschäftsführung</h2>
       <div class="member">
-        <img src="Bilder/Team/mercedes.png" alt="Bild">
+        <img src="Bilder/Team/mimi.png" alt="Bild">
         <div class="info">
           <h3>Mercedes Kinitz</h3>
-          <p>leer</p>
+          <p>CEO</p>
           <p>Mail: mercedeskinitz-zoonergy@gmail.com</p>
           <p>Telefon: 0674/9863576</p>
         </div>
       </div>
 
       <div class="member">
-        <img src="Bilder/Team/amina.png" alt="Bild">
+        <img src="Bilder/Team/amy.png" alt="Bild">
         <div class="info">
           <h3>Amina Temischeva</h3>
-          <p>leer</p>
+          <p>CEO | Ansprechspartner </p>
           <p>Mail: aminatemischeva-zoonergy@gmail.com</p>
           <p>Telefon: 0674/2656976</p>
         </div>
@@ -67,7 +67,7 @@
         <img src="Bilder/Team/adam.png" alt="Bild">
         <div class="info">
           <h3>Adam Sandler</h3>
-          <p>Social Media / Videos </p>
+          <p>Social Media | Video Manager</p>
           <p>Mail: adamsandler-zoonergy@gmail.com</p>
           <p>Telefon: 0664/98625368</p>
         </div>
@@ -81,63 +81,63 @@
         <img src="Bilder/Team/zucky.png" alt="Bild">
         <div class="info">
           <h3>Mark Zuckerberg</h3>
-          <p>leer</p>
-          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
-          <p>Telefon: leer</p>
+          <p>Büroleiter</p>
+          <p>Mail: markzuckerberg-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/7898576</p>
         </div>
       </div>
 
       <div class="member">
-        <img src="Bilder/Team/fsf" alt="Bild">
+        <img src="Bilder/Team/Cha-Woo-min.png" alt="Bild">
         <div class="info">
-          <h3>leer</h3>
-          <p>leer</p>
-          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
-          <p>Telefon: leer</p>
-        </div>
-      </div>
-    </section>
-
-    <section class="team-section">
-      <div class="member">
-        <img src="Bilder/Team/member5.png" alt="Bild">
-        <div class="info">
-          <h3>leer 5</h3>
-          <p>leer</p>
-          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
-          <p>Telefon: leer</p>
-        </div>
-      </div>
-
-      <div class="member">
-        <img src="Bilder/Team/member6.png" alt="Bild">
-        <div class="info">
-          <h3>leer 6</h3>
-          <p>leer</p>
-          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
-          <p>Telefon: leer</p>
+          <h3>Cha Woo-min</h3>
+          <p>Assistenz der Geschäftsführung</p>
+          <p>Mail: chawoomin-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/2658653</p>
         </div>
       </div>
     </section>
 
     <section class="team-section">
       <div class="member">
-        <img src="Bilder/Team/member7.png" alt="Bild">
+        <img src="Bilder/Team/LeeDongWook.png" alt="Bild">
         <div class="info">
-          <h3>leer 7</h3>
-          <p>leer</p>
-          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
-          <p>Telefon: leer</p>
+          <h3>Lee Dong Wook</h3>
+          <p>Sachbearbeiter Buchhaltung</p>
+          <p>Mail: leedongwook-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/2655698</p>
         </div>
       </div>
 
       <div class="member">
-        <img src="Bilder/Team/member8.png" alt="Bild">
+        <img src="Bilder/Team/JuliaLeischik.png" alt="Bild">
         <div class="info">
-          <h3>leer 8</h3>
-          <p>leer</p>
-          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
-          <p>Telefon: leer</p>
+          <h3>Julia Leischik</h3>
+          <p>Personalreferent</p>
+          <p>Mail: julialeischik-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/2645689</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="team-section">
+      <div class="member">
+        <img src="Bilder/Team/MarvinWilliam.png" alt="Bild">
+        <div class="info">
+          <h3>Marvin Williams</h3>
+          <p>Projektkoordinator</p>
+          <p>Mail: marvinwilliams-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/2656325</p>
+        </div>
+      </div>
+
+      <div class="member">
+        <img src="Bilder/Team/kelvinwilliams.png" alt="Bild">
+        <div class="info">
+          <h3>Kelvin Williams</h3>
+          <p>Empfangsmitarbeiter</p>
+          <p>Mail: kelvinwilliams-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/7856324</p>
         </div>
       </div>
     </section>
@@ -146,22 +146,22 @@
     <section class="team-section">
       <h2>Design</h2>
       <div class="member">
-        <img src="Bilder/Team/member9.png" alt="Bild">
+        <img src="Bilder/Team/justinbieber.png" alt="Bild">
         <div class="info">
-          <h3>leer 9</h3>
-          <p>leer</p>
-          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
-          <p>Telefon: leer</p>
+          <h3>Justin Bieber</h3>
+          <p>Grafikdesigner</p>
+          <p>Mail: justinbieber-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/7856321</p>
         </div>
       </div>
 
       <div class="member">
-        <img src="Bilder/Team/member10.png" alt="Bild">
+        <img src="Bilder/Team/markfoster.png" alt="Bild">
         <div class="info">
-          <h3>leer 10</h3>
-          <p>leer</p>
-          <p>Mail: shooshimooshi-zoonergy@gmail.com</p>
-          <p>Telefon: leer</p>
+          <h3>Mark Foster</h3>
+          <p>Web-/UI-Designer</p>
+          <p>Mail: markfoster-zoonergy@gmail.com</p>
+          <p>Telefon: 0674/9896324</p>
         </div>
       </div>
     </section>

@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #fff;
-    color: #000;
+    color: #3c3c3c;
 }
 
 /* Navbar */
@@ -467,26 +467,26 @@ body {
 /* ================= MERCH ================= */
 .merch-page {
     max-width: 1200px;
-    margin: 60px auto;
-    padding: 0 30px;
+    margin: 40px auto;
+    padding: 0 20px;
     text-align: center;
 }
 
 .merch-page h1 {
-    font-size: 36px;
-    margin-bottom: 50px;
+    font-size: 32px;
+    margin-bottom: 30px;
 }
 
 .merch-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 30px;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); /* größer als 200px */
+    gap: 25px;
 }
 
 .merch-card {
     background: #fff;
     border-radius: 12px;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 14px rgba(0,0,0,0.1);
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -495,41 +495,36 @@ body {
 }
 
 .merch-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 12px 25px rgba(0,0,0,0.15);
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
 }
 
 .merch-card img {
-    max-width: 200px;
+    max-width: 180px; /* größer als 140px */
     height: auto;
-    margin: 20px 0;
+    margin: 15px 0;
     object-fit: contain;
 }
 
-.merch-info {
-    text-align: center;
-    width: 100%;
-}
-
 .merch-info h2 {
-    font-size: 20px;
-    margin-bottom: 15px;
+    font-size: 16px;
+    margin: 10px 0;
 }
 
 .merch-info .price {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
-    margin: 10px 0 15px;
+    margin-bottom: 12px;
 }
 
 .merch-info button {
     background: #000;
     color: #fff;
     border: none;
-    padding: 12px 20px;
-    border-radius: 8px;
+    padding: 8px 18px;
+    border-radius: 20px; /* oval */
     cursor: pointer;
-    font-size: 15px;
+    font-size: 14px;
     transition: background 0.3s;
 }
 

@@ -92,7 +92,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="popup-overlay" id="popup">
         <div class="popup">
             <h2>Datenschutzerklärung</h2>
-            <p>Da würden jetzt die Datenschutzerklärung stehen! :D</p>
+            <p>Da würden jetzt die Datenschutzerklärungen stehen! :D</p>
+            <img src="Bilder/catBOOM.png" alt="Zoonergy">
             <button onclick="closePopup()">Schließen</button>
         </div>
     </div>
