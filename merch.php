@@ -47,6 +47,66 @@
                 </div>
             </div>
 
+            <!-- Produkt 1 -->
+            <div class="merch-card">
+                <img src="Bilder/Merch/bat-plushi.png" alt="Merch 2">
+                <div class="merch-info">
+                    <h2>Fledermaus Stofftier</h2>
+                    <p class="price">€15,00</p>
+                    <button>Kaufen</button>
+                </div>
+            </div>
+
+            <!-- Produkt 2 -->
+            <div class="merch-card">
+                <img src="Bilder/Merch/raccoon-plushi.png" alt="Merch 2">
+                <div class="merch-info">
+                    <h2>Waschbären Stofftier</h2>
+                    <p class="price">€15,00</p>
+                    <button>Kaufen</button>
+                </div>
+            </div>
+
+            <!-- Produkt 3 -->
+            <div class="merch-card">
+                <img src="Bilder/Merch/cat-plushi.png" alt="Merch 2">
+                <div class="merch-info">
+                    <h2>Katzen Stofftier</h2>
+                    <p class="price">€15,00</p>
+                    <button>Kaufen</button>
+                </div>
+            </div>
+
+            <!-- Produkt 4 -->
+            <div class="merch-card">
+                <img src="Bilder/Merch/dog-plushi.png" alt="Merch 2">
+                <div class="merch-info">
+                    <h2>Hunde Stofftier</h2>
+                    <p class="price">€15,00</p>
+                    <button>Kaufen</button>
+                </div>
+            </div>
+
+            <!-- Produkt 5 -->
+            <div class="merch-card">
+                <img src="Bilder/Merch/bug-plushi.png" alt="Merch 2">
+                <div class="merch-info">
+                    <h2>Käfer Stofftier</h2>
+                    <p class="price">€15,00</p>
+                    <button>Kaufen</button>
+                </div>
+            </div>
+
+            <!-- Produkt 6 -->
+            <div class="merch-card">
+                <img src="Bilder/Merch/dragon-plushi.png" alt="Merch 2">
+                <div class="merch-info">
+                    <h2>Drachen Stofftier</h2>
+                    <p class="price">€25,00</p>
+                    <button>Kaufen</button>
+                </div>
+            </div>
+
         </div>
     </div>
 
