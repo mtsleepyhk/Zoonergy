@@ -166,14 +166,21 @@
       </div>
     </section>
 
-    <!-- Extra: Team Hund -->
+    <!-- Extra: Team  -->
     <section class="team-section">
-      <h2>Unser Team Hund</h2>
+      <h2>Unsere Team Helfer</h2>
       <div class="member">
         <img src="Bilder/Team/hund.png" alt="Team Hund">
         <div class="info">
           <h3>Zippy</h3>
           <p>Motivationstrainer</p>
+        </div>
+      </div>
+      <div class="member">
+        <img src="Bilder/Team/chati.png" alt="Team Hund">
+        <div class="info">
+          <h3>ChatGPT</h3>
+          <p>Bilder Ersteller</p>
         </div>
       </div>
     </section>

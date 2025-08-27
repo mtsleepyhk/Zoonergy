@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <title>Zoonergy</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="glow.css">
     <script src="script.js"></script>
 
 </head>
@@ -45,82 +46,134 @@
     </div>
 
     <!-- Flip-Cards Bereich -->
-    <div class="flip-container">
-        <div class="flip-card">
+<!-- Flip-Cards Bereich -->
+<div class="flip-container">
+        <!-- Käfer -->
+        <div class="flip-card theme-bug">
             <div class="flip-inner">
                 <div class="flip-front">
-                    <img src="Bilder/Dosen/Käfer.png" alt="Bild 1">
+                    <img src="Bilder/Dosen/Käfer.png" alt="Käfer Dose">
                 </div>
                 <div class="flip-back">
-                    <p>leer</p>
+                    <h4>Käfer</h4>
+                    <em>Klein, aber krank stark.</em>
+                    <span class="badge">Für Underdogs & Overachiever</span>
+                    <div class="flavor">🍏 Sour Apple + 🥝 Kiwi</div>
+                    <p>Winzig, wendig, bissig – für die, die leise arbeiten und laut gewinnen:
+                       Speedrunner, Mathe-Ninjas, Prüfungs-Clutcher.</p>
+                    <div class="tagline">Bite the Energy!</div>
                 </div>
             </div>
         </div>
-        <div class="flip-card">
+
+        <!-- Waschbär -->
+        <div class="flip-card theme-raccoon">
             <div class="flip-inner">
                 <div class="flip-front">
-                    <img src="Bilder/Dosen/Raccoon.png" alt="Bild 2">
+                    <img src="Bilder/Dosen/Raccoon.png" alt="Waschbär Dose">
                 </div>
                 <div class="flip-back">
-                    <p>leer</p>
+                    <h4>Waschbär</h4>
+                    <em>Süß. Frech. Nachtaktiv.</em>
+                    <span class="badge">Für Chaos-Künstler & Snack-Jäger</span>
+                    <div class="flavor">🍪 Cookie Dough + 🍦 Vanilla</div>
+                    <p>Meme-Lords, Night-Shift-Stars und alle mit geheimem Plan (legal 😉).
+                       Weich im Taste, wild im Kopf.</p>
+                    <div class="tagline">Midnight Mischief</div>
                 </div>
             </div>
         </div>
-        <div class="flip-card">
+
+        <!-- Fledermaus -->
+        <div class="flip-card theme-bat">
             <div class="flip-inner">
                 <div class="flip-front">
-                    <img src="Bilder/Dosen/Fledermaus.png" alt="Bild 3">
+                    <img src="Bilder/Dosen/Fledermaus.png" alt="Fledermaus Dose">
                 </div>
                 <div class="flip-back">
-                    <p>leer</p>
+                    <h4>Fledermaus</h4>
+                    <em>Mystisch & ein bisschen vampirisch.</em>
+                    <span class="badge">Für Nachteulen & Fokus-Beasts</span>
+                    <div class="flavor">🍇 Dark Grape + 🍇 Blackberry</div>
+                    <p>DJs, Horror-Marathon-Pros, Introverts mit Laserfokus – dunkel, smooth, sehr wach.</p>
+                    <div class="tagline">Embrace the Dark</div>
                 </div>
             </div>
         </div>
-        <div class="flip-card">
+
+        <!-- Katze -->
+        <div class="flip-card theme-cat">
             <div class="flip-inner">
                 <div class="flip-front">
-                    <img src="Bilder/Dosen/Cat.png" alt="Bild 4">
+                    <img src="Bilder/Dosen/Cat.png" alt="Katze Dose">
                 </div>
                 <div class="flip-back">
-                    <p>leer</p>
+                    <h4>Katze</h4>
+                    <em>Verspielt, süß – aber gefährlich.</em>
+                    <span class="badge">Für Freigeister & Mood-Queens</span>
+                    <div class="flavor">🍑 Peach + 🥭 Lychee</div>
+                    <p>Artists, Skater, Parkour-Kids – soft im Einstieg, claws out im Finish.</p>
+                    <div class="tagline">Nine Lives Energy</div>
                 </div>
             </div>
         </div>
-        <div class="flip-card">
+
+        <!-- Hund -->
+        <div class="flip-card theme-dog">
             <div class="flip-inner">
                 <div class="flip-front">
-                    <img src="Bilder/Dosen/Dog.png" alt="Bild 5">
+                    <img src="Bilder/Dosen/Dog.png" alt="Hund Dose">
                 </div>
                 <div class="flip-back">
-                    <p>leer</p>
+                    <h4>Hund</h4>
+                    <em>Loyal. Klassisch. Immer beliebt.</em>
+                    <span class="badge">Für Teamplayer & Ride-or-Die</span>
+                    <div class="flavor">🥤 Cola + 🍒 Cherry</div>
+                    <p>Für die Crew, die immer auftaucht: Gaming-Duos, Turnier-Grinder, Festival-Buddies.
+                       Oldschool Taste mit modernem Kick.</p>
+                    <div class="tagline">Always by your Side</div>
                 </div>
             </div>
         </div>
-        <div class="flip-card">
+
+        <!-- Kuh -->
+        <div class="flip-card theme-cow">
             <div class="flip-inner">
                 <div class="flip-front">
-                    <img src="Bilder/Dosen/Kuh.png" alt="Bild 6">
+                    <img src="Bilder/Dosen/Kuh.png" alt="Kuh Dose">
                 </div>
                 <div class="flip-back">
-                    <p>leer</p>
+                    <h4>Kuh</h4>
+                    <em>Verrückt. Creamy. Komplett anders.</em>
+                    <span class="badge">Für Dessert-Lover & Rule-Breaker</span>
+                    <div class="flavor">🍫 Chocolate + 🍮 Caramel (Milkshake-Style)</div>
+                    <p>Cozy Sunday-Grinder, Late-Night-Lerner, Sweet-Tooth-Legenden. Dicke Comfort-Vibes, volle Energie.</p>
+                    <div class="tagline">Mooove Different</div>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Extra Karte -->
-    <div class="flip-container extra">
-        <div class="flip-card">
+    <!-- Extra Karte – DRACHE -->
+    <div class="flip-container special">
+        <div class="flip-card theme-dragon">
             <div class="flip-inner">
                 <div class="flip-front">
-                    <img src="Bilder/Dosen/Drache.png">
+                    <img src="Bilder/Dosen/Drache.png" alt="Drache Dose">
                 </div>
                 <div class="flip-back">
-                    <p>leer</p>
+                    <h4>Special Edition: Drache</h4>
+                    <em>Nur für die Mutigen.</em>
+                    <span class="badge">Limitiert & selten</span>
+                    <div class="flavor">🌶️ Chili + 🥭 Mango + ⚡ Energy-Kick</div>
+                    <p>Für Speedrunner, Startup-Pyros und Boss-Fight-Seelen.
+                       Scharf im Antritt, süß im Glide, brennt sich ins Gedächtnis.</p>
+                    <div class="tagline">Unleash the Beast</div>
                 </div>
             </div>
         </div>
     </div>
+
 
     <!-- Über uns Abschnitt -->
     <section class="about-section">
