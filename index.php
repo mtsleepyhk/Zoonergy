@@ -61,7 +61,7 @@
                     <div class="flavor">🍏 Sour Apple + 🥝 Kiwi</div>
                     <p>Winzig, wendig, bissig – für die, die leise arbeiten und laut gewinnen:
                        Speedrunner, Mathe-Ninjas, Prüfungs-Clutcher.</p>
-                    <div class="tagline">Bite the Energy!</div>
+                    <div class="tagline">€2,99</div>
                 </div>
             </div>
         </div>
@@ -79,7 +79,7 @@
                     <div class="flavor">🍪 Cookie Dough + 🍦 Vanilla</div>
                     <p>Meme-Lords, Night-Shift-Stars und alle mit geheimem Plan (legal 😉).
                        Weich im Taste, wild im Kopf.</p>
-                    <div class="tagline">Midnight Mischief</div>
+                    <div class="tagline">€2,99</div>
                 </div>
             </div>
         </div>
@@ -96,7 +96,7 @@
                     <span class="badge">Für Nachteulen & Fokus-Beasts</span>
                     <div class="flavor">🍇 Dark Grape + 🍇 Blackberry</div>
                     <p>DJs, Horror-Marathon-Pros, Introverts mit Laserfokus – dunkel, smooth, sehr wach.</p>
-                    <div class="tagline">Embrace the Dark</div>
+                    <div class="tagline">€2,99</div>
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@
                     <span class="badge">Für Freigeister & Mood-Queens</span>
                     <div class="flavor">🍑 Peach + 🥭 Lychee</div>
                     <p>Artists, Skater, Parkour-Kids – soft im Einstieg, claws out im Finish.</p>
-                    <div class="tagline">Nine Lives Energy</div>
+                    <div class="tagline">€2,99</div>
                 </div>
             </div>
         </div>
@@ -131,7 +131,7 @@
                     <div class="flavor">🥤 Cola + 🍒 Cherry</div>
                     <p>Für die Crew, die immer auftaucht: Gaming-Duos, Turnier-Grinder, Festival-Buddies.
                        Oldschool Taste mit modernem Kick.</p>
-                    <div class="tagline">Always by your Side</div>
+                    <div class="tagline">€2,99</div>
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@
                     <span class="badge">Für Dessert-Lover & Rule-Breaker</span>
                     <div class="flavor">🍫 Chocolate + 🍮 Caramel (Milkshake-Style)</div>
                     <p>Cozy Sunday-Grinder, Late-Night-Lerner, Sweet-Tooth-Legenden. Dicke Comfort-Vibes, volle Energie.</p>
-                    <div class="tagline">Mooove Different</div>
+                    <div class="tagline">€2,99</div>
                 </div>
             </div>
         </div>
@@ -168,12 +168,11 @@
                     <div class="flavor">🌶️ Chili + 🥭 Mango + ⚡ Energy-Kick</div>
                     <p>Für Speedrunner, Startup-Pyros und Boss-Fight-Seelen.
                        Scharf im Antritt, süß im Glide, brennt sich ins Gedächtnis.</p>
-                    <div class="tagline">Unleash the Beast</div>
+                    <div class="tagline">€50,00</div>
                 </div>
             </div>
         </div>
     </div>
-
 
     <!-- Über uns Abschnitt -->
     <section class="about-section">
